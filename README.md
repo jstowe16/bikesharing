@@ -4,7 +4,7 @@
 ## Results
 ### Trip Duration
 
-TripDuration.png
+![img](Story_images/TripDuration.png)
 
 
 ### Trip Duration, Gender
